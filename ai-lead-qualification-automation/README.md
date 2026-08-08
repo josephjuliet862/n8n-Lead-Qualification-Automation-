@@ -43,3 +43,19 @@ The workflow creates a streamlined lead management process that allows businesse
 ##  My Role
 
 I designed and built the workflow, connected the required applications, configured the automation logic, and structured the lead qualification process.
+## 📸 Workflow Screenshots
+
+### Workflow Overview
+![Workflow Overview](Screenshot%202026-07-30%20072248.png)
+
+### Automation Workflow
+![Automation Workflow](Screenshot%202026-07-30%20070903.png)
+
+### AI Qualification Process
+![AI Qualification Process](Screenshot%202026-08-01%20151636.png)
+
+### Data Processing
+![Data Processing](Screenshot%202026-07-30%20071023.png)
+
+### Workflow Result
+![Workflow Result](Screenshot%202026-07-30%20235925.png)
