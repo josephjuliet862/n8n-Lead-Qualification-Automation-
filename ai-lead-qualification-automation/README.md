@@ -39,6 +39,13 @@ Instead of manually reviewing every lead, the system uses automation and AI to e
 ##  Outcome
 
 The workflow creates a streamlined lead management process that allows businesses to respond to potential customers faster while reducing administrative work.
+## 📊 Results & Impact
+- Automated repetitive lead-processing tasks
+- Reduced the need for manual lead qualification
+- Centralized lead information in Google Sheets
+- Enabled faster lead routing and follow-up
+- Created a consistent and scalable lead-management process
+- Improved visibility into incoming leads and their qualification status
 
 ##  My Role
 
