@@ -43,7 +43,7 @@ The CRM pipeline was structured to track leads through different stages of the c
 - Automated welcome email
 - Workflow-based lead management
 
-## 📊 Results & Impact
+##  Results & Impact
 
 - Centralized lead information in one CRM
 - Reduced repetitive manual lead-management tasks
@@ -60,7 +60,33 @@ I also configured the lead journey so that prospects could move from initial con
 
 ## 📸 Project Screenshots
 
-Screenshots of the funnel, CRM pipeline, workflow automation, forms, and calendar setup are included in this repository.
+### Funnel Landing Page
+
+![Funnel Landing Page](Funnel%20Landing%20Page)
+
+### Lead Source
+
+![Lead Source](LEAD%20SOURCE)
+
+### Lead Management
+
+![Lead Management](Lead%20Management)
+
+### CRM Pipeline
+
+![CRM Pipeline](CRM%20Pipeline)
+
+### Calendar Booking Page
+
+![Calendar Booking Page](Calendar%20Booking%20Page)
+
+### Workflow Automation
+
+![Workflow Automation](Workflow%20Automation)
+
+### Welcome Email
+
+![Welcome Email](Welcome%20Email)
 
 ##  Note
 
