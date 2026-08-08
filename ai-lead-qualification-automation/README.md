@@ -53,16 +53,18 @@ I designed and built the workflow, connected the required applications, configur
 ## 📸 Workflow Screenshots
 
 ### Workflow Overview
-![Workflow Overview](Screenshot%202026-07-30%20072248.png)
+## 📸 Workflow Screenshots
 
-### Automation Workflow
-![Automation Workflow](Screenshot%202026-07-30%20070903.png)
+### n8n Workflow Overview
+![n8n Workflow Overview](n8n%20workflow%20overview%20.png)
+### n8n Full Workflow
+![n8n Full Workflow](n8n%20full%20workflow.png)
 
-### AI Qualification Process
-![AI Qualification Process](Screenshot%202026-08-01%20151636.png)
+### Workflow Process Mapping
+![Workflow Process Mapping](Workflow%20process%20mapping%20.png)
 
-### Data Processing
-![Data Processing](Screenshot%202026-07-30%20071023.png)
+### Google Sheets Output
+![Google Sheets Output](Google%20sheet%20output.png)
 
-### Workflow Result
-![Workflow Result](Screenshot%202026-07-30%20235925.png)
+### Supabase Output
+![Supabase Output](Supabase%20output.png)
